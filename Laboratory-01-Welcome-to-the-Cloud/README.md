@@ -1,4 +1,4 @@
-# Laboratory 01 – Welcome to the Cloud
+# Laboratory 2 part 2 – Welcome to the Cloud
 
 ## Mission Overview
 
