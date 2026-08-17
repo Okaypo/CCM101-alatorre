@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Emmanuel Cortez. I am a student taking CCM101 – Cloud Computing.
+My name is Andrew G. Latorre. I am a student taking CCM101 – Cloud Computing.
 
 ## About This Repository
 
